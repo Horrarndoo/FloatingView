@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="icon_bg_color_0">#455EDE</color>
+    <color name="icon_bg_color_1">#e51c23</color>
+    <color name="icon_bg_color_2">#EBBA67</color>
+    <color name="icon_bg_color_3">#606FE1</color>
+    <color name="icon_bg_color_4">#259b24</color>
+    <color name="icon_bg_color_5">#ff5722</color>
+    <color name="icon_bg_color_6">#BD84CD</color>
+    <color name="icon_bg_color_7">#1D9D7A</color>
+    <color name="icon_bg_color_8">#CFD314</color>
+    <color name="icon_bg_color_9">#10b3ff</color>
+    <color name="icon_bg_color_10">#0F7EB8</color>
+    <color name="icon_bg_color_11">#8bd0ed</color>
+    <color name="icon_bg_color_12">#FF943E</color>
+    <color name="icon_bg_color_13">#0080FF</color>
+    <color name="icon_bg_color_14">#9C27B0</color>
+    <color name="icon_bg_color_15">#EF5362</color>
+    <color name="icon_bg_color_16">#FE6D4B</color>
+    <color name="icon_bg_color_17">#FFCF47</color>
+    <color name="icon_bg_color_18">#9FD661</color>
+    <color name="icon_bg_color_19">#3FD0AD</color>
+    <color name="icon_bg_color_20">#2BBDF3</color>
+    <color name="icon_bg_color_21">#5A9AEF</color>
+    <color name="icon_bg_color_22">#AC8FEF</color>
+    <color name="icon_bg_color_23">#EE85C1</color>
+    <color name="icon_bg_color_24">#F57C00</color>
+    <color name="icon_bg_color_25">#795548</color>
+    <color name="icon_bg_color_default">#DA6464</color>
+    <color name="icon_bg_color_grey">#B2B2B2</color>
+
+    <!--  会议状态悬浮控件相关  -->
+    <color name="meeting_floating_view_bg_color">#EDEDED</color>
+    <color name="meeting_floating_view_text_color">#737373</color>
+    <color name="meeting_floating_view_icon_on_color">#2197DB</color>
+    <color name="meeting_floating_view_icon_off_color">#A5A5A5</color>
+    <color name="meeting_floating_view_bg_stroke_inner_color">#F3F3F3</color>
+    <color name="meeting_floating_view_bg_stroke_out_color">#CDCDCD</color>
+</resources>

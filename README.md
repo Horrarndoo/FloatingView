@@ -3,6 +3,4 @@
 
 ## 示例
 
-![示例](img_sample)
-
-[img_permission]: https://github.com/Horrarndoo/FloatingView/blob/master/sample/sample.gif
+![示例](https://github.com/Horrarndoo/FloatingView/blob/master/sample/sample.gif)
